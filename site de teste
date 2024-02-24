@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cubo Mágico</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f2f2f2;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        nav {
+            background-color: #444;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            padding: 0 10px;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        section {
+            padding: 20px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Cubo Mágico</h1>
+        <p>Descubra o mundo fascinante do cubo de Rubik!</p>
+    </header>
+    
+    <nav>
+        <a href="#sobre">Sobre</a>
+        <a href="#aprender">Aprender a Resolver</a>
+        <a href="#variacoes">Variações</a>
+        <a href="#competicoes">Competições</a>
+        <a href="#loja">Loja</a>
+        <a href="#contato">Contato</a>
+    </nav>
+    
+    <section id="sobre">
+        <h2>Sobre o Cubo Mágico</h2>
+        <p>O cubo mágico, também conhecido como cubo de Rubik, é um quebra-cabeça tridimensional inventado pelo arquiteto húngaro Ernő Rubik em 1974.</p>
+    </section>
+    
+    <section id="aprender">
+        <h2>Aprender a Resolver</h2>
+        <p>Quer aprender a resolver o cubo mágico? Aqui você encontrará tutoriais passo a passo, dicas e truques para dominar esse desafio.</p>
+    </section>
+    
+    <section id="variacoes">
+        <h2>Variações do Cubo</h2>
+        <p>Além do cubo 3x3x3 clássico, existem várias outras variações do cubo mágico, como o 2x2x2, 4x4x4, 5x5x5 e muito mais! Explore as diferentes versões e descubra novos desafios.</p>
+    </section>
+    
+    <section id="competicoes">
+        <h2>Competições e Comunidade</h2>
+        <p>Participe de competições de cubo mágico ao redor do mundo e conheça outros entusiastas. Descubra eventos próximos a você e faça parte dessa comunidade global.</p>
+    </section>
+    
+    <section id="loja">
+        <h2>Loja</h2>
+        <p>Precisa de um novo cubo mágico? Confira nossa seleção de cubos de alta qualidade e acessórios para aprimorar suas habilidades.</p>
+    </section>
+    
+    <section id="contato">
+        <h2>Contato</h2>
+        <p>Tem alguma dúvida, sugestão ou feedback? Entre em contato conosco e teremos o prazer de ajudar.</p>
+    </section>
+    
+    <footer>
+        <p>&copy; https://github.com/Alysonlucas/site-de-teste.git</p>
+    </footer>
+    
+</body>
